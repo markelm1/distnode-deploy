@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Fake test\" && exit 0"
+    "test": "echo \"Fake test\" && exit 1"
   },
   "repository": {
     "type": "git",
