@@ -19,5 +19,8 @@
   "homepage": "https://github.com/markelm1/distnode-deploy#readme",
   "dependencies": {
     "fastify": "3.2"
+  },
+  "devDependencies": {
+    "tape": "^5.6.1"
   }
 }
